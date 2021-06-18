@@ -44,3 +44,48 @@
 2021-06-16 21:10:10.813 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
 2021-06-16 21:10:10.815 -0500	act: Stop Time	0	script steps imported : 3
 2021-06-16 21:10:10.816 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 09:40:39.664 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 09:40:39.665 -0500	act: Stop Time	0	script steps imported : 1
+2021-06-17 09:40:39.665 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 09:52:37.134 -0500	Task Master.fmp12	0	Import operations started
+2021-06-17 09:52:37.136 -0500	Task Master.fmp12	0	Import of fields from clipboard started
+2021-06-17 09:52:37.139 -0500	Task Time	0	fields imported : 6
+2021-06-17 09:52:37.140 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 09:56:09.542 -0500	Task Master.fmp12	0	Import operations committed
+2021-06-17 09:56:09.543 -0500	Task Master.fmp12	0	==================================================================
+2021-06-17 13:25:26.486 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 13:25:26.488 -0500	act: Post Activity Time to Task	0	script steps imported : 1
+2021-06-17 13:25:26.488 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 14:52:28.729 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 14:52:28.730 -0500	act: Stop Time	0	script steps imported : 1
+2021-06-17 14:52:28.730 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 17:38:40.526 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 17:38:40.527 -0500	time: New	0	script steps imported : 2
+2021-06-17 17:38:40.527 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 17:38:44.886 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 17:38:44.887 -0500	time: Post Activity Time to Task	0	script steps imported : 2
+2021-06-17 17:38:44.887 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 17:38:50.213 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 17:38:50.214 -0500	time: Move Time to Bill or NonBill	0	script steps imported : 2
+2021-06-17 17:38:50.214 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 17:38:55.708 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 17:38:55.709 -0500	time: Stop Time	0	script steps imported : 2
+2021-06-17 17:38:55.709 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 21:08:16.430 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 21:08:16.433 -0500	gen: establish context	0	script steps imported : 33
+2021-06-17 21:08:16.433 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 21:10:30.995 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 21:10:30.997 -0500	gen: establish context	0	script steps imported : 10
+2021-06-17 21:10:30.998 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 21:16:40.999 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 21:16:41.000 -0500	time: Move Time to Bill or NonBill	0	script steps imported : 3
+2021-06-17 21:16:41.001 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 21:16:46.874 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 21:16:46.876 -0500	time: Post Activity Time to Task	0	script steps imported : 3
+2021-06-17 21:16:46.876 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 21:16:51.506 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 21:16:51.507 -0500	time: Start Time	0	script steps imported : 3
+2021-06-17 21:16:51.507 -0500	Task Master.fmp12	0	Import completed
+2021-06-17 21:16:57.802 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-17 21:16:57.803 -0500	time: New	0	script steps imported : 3
+2021-06-17 21:16:57.804 -0500	Task Master.fmp12	0	Import completed
