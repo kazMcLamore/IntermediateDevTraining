@@ -89,3 +89,75 @@
 2021-06-17 21:16:57.802 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
 2021-06-17 21:16:57.803 -0500	time: New	0	script steps imported : 3
 2021-06-17 21:16:57.804 -0500	Task Master.fmp12	0	Import completed
+2021-06-18 10:14:30.661 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-18 10:14:30.669 -0500	New Script	0	script steps imported : 33
+2021-06-18 10:14:30.669 -0500	Task Master.fmp12	0	Import completed
+2021-06-18 18:28:14.786 -0500	Task Master.fmp12	0	Import operations started
+2021-06-18 18:28:14.787 -0500	Task Master.fmp12	0	Import of fields from clipboard started
+2021-06-18 18:28:14.794 -0500	Party	0	fields imported : 6
+2021-06-18 18:28:14.794 -0500	Task Master.fmp12	0	Import completed
+2021-06-18 18:30:59.193 -0500	Task Master.fmp12	0	Import operations canceled
+2021-06-18 18:30:59.194 -0500	Task Master.fmp12	0	==================================================================
+2021-06-18 18:31:17.675 -0500	Task Master.fmp12	0	Import operations started
+2021-06-18 18:31:17.676 -0500	Task Master.fmp12	0	Import of fields from clipboard started
+2021-06-18 18:31:17.680 -0500	Party	0	fields imported : 6
+2021-06-18 18:31:17.680 -0500	Task Master.fmp12	0	Import completed
+2021-06-18 18:34:22.320 -0500	Task Master.fmp12	0	Import operations committed
+2021-06-18 18:34:22.321 -0500	Task Master.fmp12	0	==================================================================
+2021-06-18 19:24:29.296 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-18 19:24:29.300 -0500	menu: new	0	script steps imported : 33
+2021-06-18 19:24:29.300 -0500	Task Master.fmp12	0	Import completed
+2021-06-18 22:33:23.466 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-18 22:33:23.470 -0500	client: new	0	script steps imported : 33
+2021-06-18 22:33:23.470 -0500	Task Master.fmp12	0	Import completed
+2021-06-18 22:47:20.080 -0500	Task Master.fmp12	0	Import of scripts from clipboard started
+2021-06-18 22:47:20.182 -0500	get as json (layout)	0	script steps imported : 72
+2021-06-18 22:47:20.264 -0500	Task Master.fmp12	0	scripts imported : 1
+2021-06-18 22:47:20.265 -0500	Task Master.fmp12	0	Import completed
+2021-06-19 14:54:58.741 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-19 14:54:58.743 -0500	employee: new	0	script steps imported : 1
+2021-06-19 14:54:58.743 -0500	Task Master.fmp12	0	Import completed
+2021-06-19 14:58:07.824 -0500	Task Master.fmp12	0	Import operations started
+2021-06-19 14:58:23.052 -0500	Task Master.fmp12	0	Import of custom functions from file “Task Master Unit Tests.fmp12” started
+2021-06-19 14:58:23.062 -0500	Task Master.fmp12	0	custom functions imported : 1
+2021-06-19 14:58:23.062 -0500	Task Master.fmp12	0	Import completed
+2021-06-19 14:58:25.990 -0500	Task Master.fmp12	0	Import operations committed
+2021-06-19 14:58:25.990 -0500	Task Master.fmp12	0	==================================================================
+2021-06-19 15:10:03.755 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-19 15:10:03.759 -0500	employee: new	3702	Unknown Error: <unknown>.
+2021-06-19 15:10:03.759 -0500	employee: new	0	script steps imported : 7
+2021-06-19 15:10:03.759 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 09:51:05.681 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 09:51:05.683 -0500	time: Post Activity Time to Task	0	script steps imported : 4
+2021-06-25 09:51:05.683 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 09:57:27.389 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 09:57:27.390 -0500	time: Post Activity Time to Task bad	0	script steps imported : 7
+2021-06-25 09:57:27.391 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 09:57:47.154 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 09:57:47.156 -0500	time: Post Activity Time to Task bad	0	script steps imported : 7
+2021-06-25 09:57:47.156 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 10:00:32.610 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 10:00:32.611 -0500	time: Post Activity Time to Task bad	0	script steps imported : 4
+2021-06-25 10:00:32.611 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 10:01:50.828 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 10:01:50.829 -0500	time: Post Activity Time to Task bad	0	script steps imported : 6
+2021-06-25 10:01:50.829 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 10:01:59.053 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 10:01:59.054 -0500	time: Post Activity Time to Task bad	0	script steps imported : 6
+2021-06-25 10:01:59.054 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 10:04:48.573 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 10:04:48.574 -0500	time: Post Activity Time to Task bad	0	script steps imported : 5
+2021-06-25 10:04:48.574 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 10:07:49.130 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 10:07:49.131 -0500	time: Post Activity Time to Task loop	0	script steps imported : 3
+2021-06-25 10:07:49.131 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 10:26:42.310 -0500	Task Master.fmp12	0	Import of scripts from clipboard started
+2021-06-25 10:26:42.445 -0500	set fields (json)	0	script steps imported : 59
+2021-06-25 10:26:42.550 -0500	Task Master.fmp12	0	scripts imported : 1
+2021-06-25 10:26:42.551 -0500	Task Master.fmp12	0	Import completed
+2021-06-25 12:01:43.660 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-06-25 12:01:43.664 -0500	New Script	0	script steps imported : 33
+2021-06-25 12:01:43.665 -0500	Task Master.fmp12	0	Import completed
+2021-07-02 10:18:32.140 -0500	Task Master.fmp12	0	Import of script steps from clipboard started
+2021-07-02 10:18:32.142 -0500	temp test outta thing	0	script steps imported : 12
+2021-07-02 10:18:32.142 -0500	Task Master.fmp12	0	Import completed
